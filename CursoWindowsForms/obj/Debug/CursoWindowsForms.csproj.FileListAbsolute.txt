@@ -1,0 +1,120 @@
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2.resources
+D:\Users\edesonjsb\C# WINDOWS FORMS\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\FORMACAO C SHARP\FORMULARIOS -  COMPONENTES E EVENTOS\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DesmonstracaoKey_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MenuFlutuante.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\DataBases\Fichario.mdf
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\DataBases\Fichario_log.ldf
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\DataBases\Fichario.mdf
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\DataBases\Fichario_log.ldf
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\Newtonsoft.Json.xml
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DesmonstracaoKey_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_CadastroCliente_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MenuFlutuante.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Busca.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf2_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Agencia.resources
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb

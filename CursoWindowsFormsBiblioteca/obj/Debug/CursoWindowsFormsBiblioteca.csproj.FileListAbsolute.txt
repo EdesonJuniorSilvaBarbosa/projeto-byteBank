@@ -1,0 +1,60 @@
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario.mdf
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario_log.ldf
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario.mdf
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario_log.ldf
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.dll
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.xml
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.xml
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.dll
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.xml
+D:\Users\edesonjsb\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csprojAssemblyReference.cache
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario.mdf
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\DataBases\Fichario_log.ldf
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll.config
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\Newtonsoft.Json.xml
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Configuration.ConfigurationManager.xml
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.AccessControl.xml
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Permissions.xml
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\bin\Debug\System.Security.Principal.Windows.xml
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CoreCompileInputs.cache
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.CopyComplete
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.dll
+F:\backup computador Triad\FORMACAO C SHARP\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.pdb
+E:\7 - Pojeto Curso\CursoWindowsForms\CursoWindowsFormsBiblioteca\obj\Debug\CursoWindowsFormsBiblioteca.csproj.AssemblyReference.cache
